@@ -1,0 +1,29 @@
+# Created by Octave 3.4.3, Mon Jul 07 17:50:08 2014 NZST <gsmyth@LP134GET.ibm.com>
+# name: ans
+# type: matrix
+# rows: 2
+# columns: 1
+ 31.22379912668572
+ 0.6484716157199366
+
+
+# name: x
+# type: matrix
+# rows: 4
+# columns: 2
+ 1 89
+ 1 72
+ 1 94
+ 1 69
+
+
+# name: y
+# type: matrix
+# rows: 4
+# columns: 1
+ 96
+ 74
+ 87
+ 78
+
+
